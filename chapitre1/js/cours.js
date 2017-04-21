@@ -1,7 +1,5 @@
-var a;
+var res;
 
-a = 0;
+res = 21 % 2; 
 
-a = 12.5;
-
-console.log(a);
+console.log("Le modulo est : "+res);
